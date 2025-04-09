@@ -19,4 +19,7 @@ DOMAIN-SUFFIX,douyinliving.com,DIRECT
 DOMAIN-SUFFIX,weathercn.com,DIRECT
 
 #个推
-DOMAIN-SUFFIX,getui。com,DIRECT
+DOMAIN-SUFFIX,getui.com,DIRECT
+
+#win10-store
+DOMAIN,apps.microsoft.com,DIRECT
